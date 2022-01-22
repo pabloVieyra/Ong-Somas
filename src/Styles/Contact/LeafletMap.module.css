@@ -1,0 +1,38 @@
+.container {
+  padding-block: 1rem;
+  padding-bottom: 2rem;
+  padding-inline: 3rem;
+  border: 1px solid rgb(59, 59, 59);
+  border-radius: 10px;
+  width: min-content;
+  margin: 0 auto;
+  margin-bottom: 4rem;
+  box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+}
+
+.map_title {
+  font-weight: 400;
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.map_container {
+  margin: 0 auto;
+  width: 70vw;
+  height: 80vh;
+}
+
+@media (max-width: 540px) {
+  .container {
+    padding: 0;
+    border: none;
+    margin-bottom: 1rem;
+    width: 100%;
+  }
+  .map_title {
+    margin-left: 1rem;
+  }
+  .map_container {
+    width: 95%;
+  }
+}

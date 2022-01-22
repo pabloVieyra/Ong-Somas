@@ -1,0 +1,17 @@
+.container {
+  min-height: 100vh;
+  background-color: #eaeef3;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.imageContainer {
+  text-align: center;
+}
+
+.imageContainer img {
+  margin: 0 auto;
+  max-width: 100%;
+  width: 200px;
+}

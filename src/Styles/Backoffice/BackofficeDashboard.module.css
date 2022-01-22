@@ -1,0 +1,22 @@
+.container {
+  padding: 3rem;
+}
+
+.cards_container {
+  /* display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: 1fr 1fr; */
+  display: flex;
+  justify-content: center;
+  gap: 3rem;
+  align-items: center;
+  flex-wrap: wrap;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+@media (max-width: 500px) {
+  .container {
+    padding-inline: 0;
+  }
+}

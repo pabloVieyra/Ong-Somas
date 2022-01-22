@@ -1,0 +1,9 @@
+.memberContainer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.socialMediaIcon{
+    color: #DB5752;
+}

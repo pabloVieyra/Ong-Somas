@@ -1,0 +1,43 @@
+.dropzone-container {
+    border: 1px dashed #c1c1c1;
+    padding: 10px;
+  }
+  
+  .dropzone-container:hover {
+    border: 1px dashed #3498db;
+  }
+  
+  .thumbs-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 5px auto;
+  }
+  
+  .thumb {
+    display: inline-flex;
+    border-radius: 2px;
+    border: 1px solid #eaeaea;
+    margin-bottom: 2px;
+    margin-right: 8px;
+    max-width: 150px;
+    max-height: 150px;
+    padding: 4px;
+    box-sizing: border-box;
+  }
+  
+  .thumbInner {
+    display: flex;
+    min-width: 0;
+    overflow: hidden;
+  }
+  
+  .thumb-image {
+    display: auto;
+    width: auto;
+    height: 100%;
+  }
+  
+  .submit-btn {
+    width: 163.65px;
+  }

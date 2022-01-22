@@ -1,0 +1,10 @@
+.animatedButton {
+  animation: slide 0.7s 1s ease-out alternate 4;
+  transition: opacity 1s;
+}
+
+@keyframes slide {
+  100% {
+    transform: translateX(-20px);
+  }
+}

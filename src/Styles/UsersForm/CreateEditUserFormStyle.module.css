@@ -1,0 +1,42 @@
+.form_container {
+  width: 60%;
+  margin: 15px auto;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.input_field {
+  padding: 15px 30px;
+  border: 1px solid #c1c1c1;
+}
+
+.select_field {
+  padding: 10px;
+  border: 1px solid #c1c1c1;
+}
+
+.submit_btn {
+  background-color: #2e86c1;
+  height: 40px;
+  border: none;
+  color: #fff;
+}
+
+.submit_btn:hover {
+  cursor: pointer;
+  background-color: #3498db;
+}
+
+.login_user_form {
+  width: 90%;
+  height: auto;
+  margin: 35px auto;
+  border: #2e86c1 2px solid;
+  display: flex;
+  flex-direction: column;
+  padding: 35px;
+  align-items: center;
+  justify-content: center;
+  gap: 50px;
+}

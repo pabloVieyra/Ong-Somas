@@ -1,0 +1,53 @@
+.sections {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: space-between;
+  width: 60%;
+  margin: 15px auto;
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+}
+
+.p {
+  padding-top: 30px;
+}
+
+@media only screen and (max-width: 575px) {
+  .logo {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+  }
+
+  .p {
+    display: none;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .p {
+    display: none;
+  }
+
+  .logo {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+  }
+}
+
+@media only screen and (min-width: 1000px) {
+  .sections,
+  .p {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-between;
+  }
+
+  .logo {
+    margin: auto;
+    width: 20vw;
+    padding: 10px;
+  }
+}

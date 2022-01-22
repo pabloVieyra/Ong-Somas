@@ -1,0 +1,11 @@
+.listContainer {
+  width: 90%;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+@media (min-width: 992px) {
+  .listContainer {
+    width: 60%;
+  }
+}
