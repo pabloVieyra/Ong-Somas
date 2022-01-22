@@ -5,6 +5,13 @@
 #### cambio de rumbo en cada individuo a través de la educación, salud, trabajo, deporte, responsabilidad y compromiso.
 ## Objetivo Del Proyecto
 #### Hacer una aplicacion web para la Ong  asi la pueden contactar y tambien para que pueda gestionar sus noticias.
+## Docs
+#### proyecto ONG:https://certain-ghoul-92d.notion.site/New-Caso-1-ONG-Somos-M-s-f37e78ee232e4cdd955ab73ca63dbb3a
+#### Docu de la API: http://ongapi.alkemy.org/api/docs#/
+#### Endpoint: http://ongapi.alkemy.org/api/
+#### campañas: https://drive.google.com/drive/folders/1i9qGqtfb9r_NW1AiHcVNZozETkO6q7OJ
+#### somos más: https://drive.google.com/drive/folders/1q-t5pTX3FA7bf-2kDnGq-99EUfkUQ7iZ
+#### layout backoffice: https://drive.google.com/drive/folders/1A_oqfI5i9Dd_aSgQmLSfC2QEG4J1De0p
 ## Fotos Web Publica
 ![image](https://user-images.githubusercontent.com/91098592/150622933-7c4a6064-a183-4139-ae6e-b593aee3256c.png)
 ![image](https://user-images.githubusercontent.com/91098592/150622950-e9ae53dc-67aa-481a-bf66-d522310740cb.png)
